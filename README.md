@@ -61,8 +61,8 @@ In this Project Writeup, I will consider the [Project Rubric Points](https://rev
 
 ## 1. Project Code, Files:
 Here are the Links To:
-1. [**My Project @ GitHub**.](https://github.com/nmuthukumar/UDACITY_SDCarEngg-ND--P1--Prj03-BehavioralCloning)
-2. [**The Project Code @ GitHub** - **'Model using Deep Learning (CNN)'** for 'Autonomously Driving a Car based on **Driver Behavior Cloning**'.](https://github.com/nmuthukumar/UDACITY_SDCarEngg-ND--P1--Prj03-BehavioralCloning/blob/master/model_beh-clone.py)
+1. [**My Project @ GitHub**](https://github.com/nmuthukumar/UDACITY_SDCarEngg-ND--P1--Prj03-BehavioralCloning)
+2. [**The Project Code @ GitHub** - **'Model using Deep Learning (CNN)'** for 'Autonomously Driving a Car based on **Driver Behavior Cloning**'](https://github.com/nmuthukumar/UDACITY_SDCarEngg-ND--P1--Prj03-BehavioralCloning/blob/master/CarND-Behavioral-Cloning/model_beh-clone.py)
 
 My **Project** mainly includes the following **Files**:
 1. `model_beh-clone.py` - Containing the **Code** to Create and Train the **Behavior Cloning Model** using Convolutional Neural Network (**CNN**).  
